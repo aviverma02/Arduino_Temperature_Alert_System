@@ -7,7 +7,7 @@ This project demonstrates a **temperature monitoring and LED alert system** usin
 This project is ideal for beginners learning:
 
 * Analog sensor interfacing
-* Arduino programming
+* Arduino programming  
 * Conditional logic
 * Real-time hardware monitoring
 
