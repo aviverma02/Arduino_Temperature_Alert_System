@@ -13,7 +13,7 @@ This project is ideal for beginners learning:
 
 ---
 
-## 🚀 Features
+## 🚀 Features  
 
 * 📊 Real-time temperature monitoring via Serial Monitor
 * 🌡️ Analog to digital temperature conversion
