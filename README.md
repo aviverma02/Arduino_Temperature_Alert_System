@@ -9,7 +9,7 @@ This project is ideal for beginners learning:
 * Analog sensor interfacing
 * Arduino programming  
 * Conditional logic
-* Real-time hardware monitoring
+* Real-time hardware monitoring 
 
 ---
 
