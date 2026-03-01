@@ -12,7 +12,7 @@ This project is ideal for beginners learning:
 * Real-time hardware monitoring 
  
 ---
-
+ 
 ## 🚀 Features  
 
 * 📊 Real-time temperature monitoring via Serial Monitor
