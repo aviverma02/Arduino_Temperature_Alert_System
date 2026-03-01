@@ -19,7 +19,7 @@ This project is ideal for beginners learning:
 * 🌡️ Analog to digital temperature conversion
 * 💡 Automatic LED alert when temperature exceeds threshold
 * 🔁 Continuous data refresh every 1 second
-* 🛠️ Easy to modify threshold and output devices
+* 🛠️ Easy to modify threshold and output devices 
 
 ---
 
