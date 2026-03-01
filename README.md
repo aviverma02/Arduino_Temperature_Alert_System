@@ -10,7 +10,7 @@ This project is ideal for beginners learning:
 * Arduino programming  
 * Conditional logic  
 * Real-time hardware monitoring 
-
+ 
 ---
 
 ## 🚀 Features  
