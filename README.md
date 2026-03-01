@@ -1,5 +1,5 @@
 # Arduino Temperature Sensor LED Alert System (TMP36/LM35)
-
+ 
 ## 📌 Project Overview
 
 This project demonstrates a **temperature monitoring and LED alert system** using an **Arduino Uno** and an **analog temperature sensor (TMP36/LM35)**. The system continuously reads the surrounding temperature, converts the analog signal into a Celsius value, and **automatically turns an LED ON when the temperature exceeds a defined threshold (30°C)**. The real-time temperature data is also displayed on the **Serial Monitor** for easy observation and debugging.
