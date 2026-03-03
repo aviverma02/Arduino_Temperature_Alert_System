@@ -18,7 +18,7 @@ This project is ideal for beginners learning:
 * 📊 Real-time temperature monitoring via Serial Monitor
 * 🌡️ Analog to digital temperature conversion
 * 💡 Automatic LED alert when temperature exceeds threshold
-* 🔁 Continuous data refresh every 1 second
+* 🔁 Continuous data refresh every 1 second 
 * 🛠️ Easy to modify threshold and output devices 
 
 ---
